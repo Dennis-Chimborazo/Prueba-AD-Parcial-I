@@ -1,0 +1,13 @@
+<-------------------backend-Cuenca------------------->
+npm init -y
+npm install cors
+npm i express body-parser
+npm i mongoose
+npm install dotenv
+npm install jsonwebtoken
+<-------------------backend-Quito------------------->
+<-------------------backend-Guayaquil------------------->
+<-------------------Frontend------------------->
+npm install axios
+npm install @nestjs/config dotenv
+npm i react-data-table-component
